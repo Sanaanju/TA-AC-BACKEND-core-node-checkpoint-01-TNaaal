@@ -1,0 +1,9 @@
+s (7 sloc)  128 Bytes
+   
+{
+  "name": "Zeba",
+  "email": "zebaa@gmail.com",
+  "username": "zeba",
+  "age": 22,
+  "about": "Backend Node Developer"
+}
